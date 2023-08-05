@@ -1,0 +1,6 @@
+[book]
+authors = ["ToF_"]
+language = "en"
+multilingual = false
+src = "src"
+title = "testing"
